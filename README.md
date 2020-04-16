@@ -1,0 +1,3 @@
+# slow paint
+
+slow editor
